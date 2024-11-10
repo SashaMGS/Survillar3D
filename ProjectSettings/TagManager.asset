@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - BulletEnemy
+  - ScriptsObj
+  - Pistol
+  - ShotGun
+  - Automat
+  - Machinegun
+  - Joystick
+  - GearPool
+  - ExpPool
+  - Enemy1PoolDead
+  - Enemy2PoolDead
+  - Enemy3PoolDead
+  - Enemy4PoolDead
+  - Enemy5PoolDead
+  - EnemyBabyPool
+  - PlaceSummoner
+  - Enemy4PoolBaby
+  - Enemy4PoolBabyDead
+  - Boss
+  - Enemy1Pool
+  - WaveTextPack
+  - SpikeBossPart2
+  - Lazer
+  - PlacesUFO
+  - PlacesWheel
+  - Enemy4Pool
+  - BossUFO
+  - Wind
+  - FxTemporaire
+  - WeaponRecoil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Minimap
+  - Water
+  - UI
+  - Weapon
+  - Enemy
+  - Decor
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
